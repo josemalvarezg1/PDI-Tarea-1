@@ -14,5 +14,4 @@ Deberá cargar una imagen bitmap (formato .bmp) de 1, 4, 8, 16 o 24 bits desde e
 
 ## Integrante
 
-**José Manuel Alvarez García**
-**CI 25038805**
+**José Manuel Alvarez García** - **CI 25038805**
